@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Applied Mathematics and Statistics at Chalmers University of Technology and University of Gothenburg. 
-My research is focused on developing spatial models for complicated clustered point patterns that appear in many applications.
+Hello! I am Konstantinos Konstantinou, and I recently completed my PhD in Applied Mathematics and Statistics at Chalmers University of Technology and University of Gothenburg. My passion lies in utilizing mathematical models and statistical techniques to solve real-world problems across diverse domains. During my PhD, I focused on developing spatial models for complicated clustered point patterns that appear in many applications.
 My main research interests are spatial statistics, statistical modeling and artificial intelligence.
+
+I am actively seeking new opportunities where I can apply my expertise in Statistics/Data Science, to make meaningful contributions. If you know of any opportunities, please feel free to reach out (email communication is preffered).
 
 News
 ======
