@@ -25,6 +25,21 @@ Work experience
 * January 2019 - June 2019: Master thesis student
   * Volvo Trucks
  
+# Research Visits
+* September 2023: Natural Resources Institute of Finland (LUKE), Helsinki, Finland.
+* September 2022 - November 2022: Natural Resources Institute of Finland (LUKE), Helsinki, Finland.
+
+
+# Awards
+* June 2017: Cyprus Mathematical Society Award
+    * Department of Mathematics and Statistics, University of Cyprus
+    * For achieving the highest-grade point average in all subjects of the Department during the academic years 2013-2017.
+* June 2015: Rose Irving Saff Award
+    * Department of Mathematics and Statistics, University of Cyprus 
+    * For being the second-year student at the Department of Mathematics and Statistics achieving the highest-grade point average in all subjects of the Department during the academic years 2013-2015.
+
+
+ 
 
 
 
