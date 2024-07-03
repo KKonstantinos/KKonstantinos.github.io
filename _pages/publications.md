@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=jEDh_u4AAAAJ&hl=en">my Google Scholar profile</a>.</div>
+You can also find my articles on <a href="https://scholar.google.com/citations?user=jEDh_u4AAAAJ&hl=en">my Google Scholar profile</a>.
 <ol>
 <br>
 <b><font color="black"><h3>Ongoing research</h3></font></b>
