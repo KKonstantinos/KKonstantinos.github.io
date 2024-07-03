@@ -13,10 +13,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <li> T. Mrkvička, K. Konstantinou, M. Kuronen, M. Myllymäki (2024). <a href="https://arxiv.org/abs/2309.04746">Global quantile regression</a>.
 
  <b><font color="black"><h3>Published papers</h3> </font></b>
- <li> Cronie O.,  J. Jansson, <b> K. Konstantinou </b> (2024) <a href="https://link.springer.com/article/10.1007/s13253-024-00606-0">Discussion of the Paper “Marked Spatial Point Processes: Current State and Extensions to Point Processes on Linear Networks”</a>, <i>Journal of Agricultural, Biological and Environmental Statistics</i>
- <li><b>K. Konstantinou</b>, F. Ghorbanpour, U. Picchini, A. Loavenbruck, A. Särkkä (2023). <a href="http://doi.org/10.1002/sim.9851">Statistical modeling of diabetic neuropathy: Exploring the dynamics of nerve mortality</a>, <i>Statistics in Medicine</i> vol 42, issue 23, pp 4128-4146, also arXiv:2302.06374.
- <li><b>K. Konstantinou.</b>, A. Särkkä (2022). <a href="https://onlinelibrary.wiley.com/doi/10.1111/jmi.13142)">Pairwise interaction Markov model for 3D epidermal nerve fibre endings</a>, <i>Journal of Microscopy</i> vol 288, issue 1, pp 54-67.
- <li><b>K. Konstantinou</b>, A. Särkkä (2021). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9194">Spatial modeling of epidermal nerve fiber patterns</a>, <i>Statistics in Medicine</i> vol 40,  issue 29, pp. 6479-6500.
+ <li> Cronie O.,  J. Jansson, <b> K. Konstantinou </b> (2024) <a href="https://link.springer.com/article/10.1007/s13253-024-00606-0">Discussion of the Paper “Marked Spatial Point Processes: Current State and Extensions to Point Processes on Linear Networks”</a>, <i>Journal of Agricultural, Biological and Environmental Statistics</i>.
+ <li><b>K. Konstantinou</b>, F. Ghorbanpour, U. Picchini, A. Loavenbruck, A. Särkkä (2023). <a href="http://doi.org/10.1002/sim.9851">Statistical modeling of diabetic neuropathy: Exploring the dynamics of nerve mortality</a>, <i>Statistics in Medicine</i>, vol 42, issue 23, pp 4128-4146, also arXiv:2302.06374.
+ <li><b>K. Konstantinou.</b>, A. Särkkä (2022). <a href="https://onlinelibrary.wiley.com/doi/10.1111/jmi.13142">Pairwise interaction Markov model for 3D epidermal nerve fibre endings</a>, <i>Journal of Microscopy</i>, vol 288, issue 1, pp 54-67.
+ <li><b>K. Konstantinou</b>, A. Särkkä (2021). <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9194">Spatial modeling of epidermal nerve fiber patterns</a>, <i>Statistics in Medicine</i>, vol 40,  issue 29, pp. 6479-6500.
 
    
 <b><font color="black"><h3>Phd and Master theses</h3></font></b>
