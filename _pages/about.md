@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a PhD candidate in Applied Mathematics and Statistics at Chalmers University of Technology and University of Gothenburg. 
 My research is focused on developing spatial models for complicated clustered point patterns that appear in many applications.
 My main research interests are spatial statistics, statistical modeling and artificial intelligence.
