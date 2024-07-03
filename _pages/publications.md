@@ -8,8 +8,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <ol>
 <br>
 <b><font color="black"><h3>Ongoing research</h3></font></b>
-<li> K. Konstantinou, T. Mrkvička, M. Myllymäki (2024). <a href="https://arxiv.org/abs/2403.01838">Graphical n-sample tests of correspondence of distributions</a>.
-<li> T. Mrkvička, K. Konstantinou, M. Kuronen, M. Myllymäki (2024). <a href="https://arxiv.org/abs/2309.04746">Global quantile regression</a>.
+<li> <b>K. Konstantinou</b>, T. Mrkvička, M. Myllymäki (2024). <a href="https://arxiv.org/abs/2403.01838">Graphical n-sample tests of correspondence of distributions</a>.
+<li> T. Mrkvička, <b>K. Konstantinou</b>, M. Kuronen, M. Myllymäki (2024). <a href="https://arxiv.org/abs/2309.04746">Global quantile regression</a>.
 
  <b><font color="black"><h3>Published papers</h3> </font></b>
  <li> Cronie O.,  J. Jansson, <b> K. Konstantinou </b> (2024) <a href="https://link.springer.com/article/10.1007/s13253-024-00606-0">Discussion of the Paper “Marked Spatial Point Processes: Current State and Extensions to Point Processes on Linear Networks”</a>, <i>Journal of Agricultural, Biological and Environmental Statistics</i>.
