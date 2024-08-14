@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Mathematics and Statistics, Chalmers University of Technology, 2024.
+* Ph.D. in Applied Mathematics and Statistics, Chalmers University of Technology, 2024.
 * Licentiate of Philosophy, Chalmers University of Technology, 2021.
 * M.Sc. in Engineering Mathematics and Computational Sciences, Chalmers University of Technology, 2019.
-* B.S. in Applied Mathematics, University of Cyprus, 2017.
+* B.Sc. in Applied Mathematics, University of Cyprus, 2017.
 
 Work experience
 ======
