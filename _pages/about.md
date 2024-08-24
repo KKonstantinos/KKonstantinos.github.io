@@ -13,6 +13,7 @@ My main research interests are spatial statistics, statistical modeling and arti
 
 News
 ======
+- August 2024: Started a new position at [APNC Sweden](https://apnc.se/about/)
 - May 2024: Successfully defended my PhD thesis [Spatial analyses of nerve patterns and global testing approaches](https://research.chalmers.se/publication/541035/file/541035_Fulltext.pdf)
 - March 2024: Accepted in Journal of Agricultural, Biological and Environmental Statistics [Discussion of the Paper “Marked Spatial Point Processes: Current State and Extensions to Point Processes on Linear Networks”](https://link.springer.com/article/10.1007/s13253-024-00606-0)
 - March 2024: New Paper: [Graphical n-sample tests of correspondence of distributions](https://arxiv.org/abs/2403.01838)
