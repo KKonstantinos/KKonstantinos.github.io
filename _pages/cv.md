@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* August 2024 - present: Statistician
+  * APNC Sweden
+    
 * August 2019 - August 2024: Ph.D. student
   * Chalmers University of Technology
   * Supervisors: Aila Särkkä, Ottmar Cronie, Umberto Picchini
